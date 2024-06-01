@@ -16,7 +16,7 @@
     <tr>
       <td>조현민</td>
       <td>FW, APP</td>
-      <td>jhm</td>
+      <td>jjohmin</td>
     </tr>
     <tr>
       <td>최유준</td>
@@ -24,9 +24,9 @@
       <td>jjojun</td>
     </tr>
     <tr>
-      <td>???</td>
+      <td>노승준</td>
       <td>AI</td>
-      <td>???</td>
+      <td>seprogramd14</td>
     </tr>
   </table>
 <h3>1. 개발환경</h3>
