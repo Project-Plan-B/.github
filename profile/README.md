@@ -15,7 +15,7 @@
     </tr>
     <tr>
       <td>조현민</td>
-      <td>FW, APP</td>
+      <td>FW, APP, DE</td>
       <td>jjohmin</td>
     </tr>
     <tr>
