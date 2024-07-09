@@ -15,17 +15,17 @@
     </tr>
     <tr>
       <td>조현민</td>
-      <td>FW, APP, DE</td>
+      <td>FW, APP</td>
       <td>jjohmin</td>
     </tr>
     <tr>
       <td>최유준</td>
-      <td>HW, BE</td>
+      <td>HW, FW, DE</td>
       <td>jjojun</td>
     </tr>
     <tr>
       <td>노승준</td>
-      <td>AI</td>
+      <td>AI, BE</td>
       <td>seprogramd14</td>
     </tr>
   </table>
@@ -33,7 +33,7 @@
 <ul>
   <li>MCU : NODE Mcu</li>
   <li>APP : Flutter</li>
-  <li>BE : NODE.JS</li>
+  <li>BE : Flask</li>
   <li>AI : Python</li>
   <li>Design : Figma</li>
   <li>버전 및 이슈 관리 : Github, Github Issues, Github Project</li>
